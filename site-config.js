@@ -1,10 +1,10 @@
 const path = require('path');
 
 module.exports = {
-  siteTitle: `Jacks Consulting`,
-  siteTitleShort: `J4cks`,
-  siteDescription: `Jacks Tech Consulting`,
-  siteUrl: `https://j4cks.com`,
+  siteTitle: `Hungry Crypto`,
+  siteTitleShort: `HungryCrypto`,
+  siteDescription: `Hungry Crypto`,
+  siteUrl: `https://hungrycrypto.com`,
   themeColor: `#4c9084`,
   backgroundColor: `#4c9084`,
   pathPrefix: null,
