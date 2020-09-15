@@ -5,12 +5,12 @@ module.exports = {
   siteTitleShort: `HungryCrypto`,
   siteDescription: `Hungry Crypto`,
   siteUrl: `https://hungrycrypto.com`,
-  themeColor: `#4c9084`,
-  backgroundColor: `#4c9084`,
+  themeColor: `#00dead`,
+  backgroundColor: `#00dead`,
   pathPrefix: null,
   logo: path.resolve(__dirname, 'src/images/icon.png'),
   social: {
-    twitter: `__j4cks__`,
+    twitter: `HungryCrypto`,
     fbAppId: `853069218420402`,
   },
 };
